@@ -5,6 +5,11 @@ Beside backend and frontend I have been developing mobile application using reac
 
 I've created lot's of open-source like [laravel-real-time-chat](https://github.com/samironbarai/laravel_chat), [lumen-rest-api](https://github.com/samironbarai/lumen-rest-api-jwt-auth), [laravel-scrapper](https://github.com/samironbarai/laravel-scraper) and [many-more](https://github.com/samironbarai?tab=repositories).
 
+You can find me on:
+
+- **[YouTube](https://youtube.com/codeforyou)** Producing video tutorials for both beginner and experienced developers.
+- **[samironbarai.com](https://samironbarai.com/)** Tring to create written tutorials about specific problems or the issues I am facing on my projects.
+
 **Languages and Tools**
 
 <code><img height="35rem" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png"/></code>
