@@ -6,5 +6,4 @@ Beside backend and frontend I have been developing mobile application using reac
 
 
 Thanks,
-
 [Samiron Barai](https://samironbarai.com/)
