@@ -1,10 +1,9 @@
-# Hello, folks! :wave:
-[![Samiorn Barai](samiron-barai.gif)](https://samironbarai.com/)
+### Hey everyone, [Samiron](https://samironbarai.com/) here 👋
 
-Have been working as a software engineer. My main responsibilty is to develop backend and frontend.
+I Have been working as a software engineer. My main responsibilty is to develop backend and frontend.
 Beside backend and frontend I have been developing mobile application using react native.
 
-<br>
+I've created lot's of open-source like [laravel-real-time-chat](https://github.com/samironbarai/laravel_chat), [lumen-rest-api](https://github.com/samironbarai/lumen-rest-api-jwt-auth), [laravel-scrapper](https://github.com/samironbarai/laravel-scraper) and many more.
 
 **Languages and Tools**
 
