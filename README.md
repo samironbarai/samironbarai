@@ -4,6 +4,15 @@
 Have been working as a software engineer. My main responsibilty is to develop backend and frontend.
 Beside backend and frontend I have been developing mobile application using react native.
 
+<br>
 
-Thanks,<br>
+📈 My Github stats <br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samironbarai&theme=dark&show_icons=true" alt="shwetangStats" />  
+</p>
+
+<br />
+
+Thanks,
+<br>
 [Samiron Barai](https://samironbarai.com/)
