@@ -20,7 +20,3 @@ I've created lot's of open-source like [laravel-real-time-chat](https://github.c
 
 <img align="top" src="https://github-readme-stats.vercel.app/api?username=samironbarai&hide=contribs&count_private=true&theme=dracula&show_icons=true" alt="Samiron Barai's GitHub Stats" />
 <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samironbarai&count_private=true&theme=dracula&show_icons=true&hide=css&layout=compact&card_width=270" alt="Samiron Barai's Most Used GitHub Languages" />
-
-Thanks,
-<br>
-[Samiron Barai](https://samironbarai.com/)
