@@ -5,5 +5,5 @@ Have been working as a software engineer. My main responsibilty is to develop ba
 Beside backend and frontend I have been developing mobile application using react native.
 
 
-Thanks,
+Thanks,<br>
 [Samiron Barai](https://samironbarai.com/)
