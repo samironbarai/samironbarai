@@ -21,10 +21,10 @@ I've created lot's of open-source like [laravel-real-time-chat](https://github.c
 📈 My Github stats <br />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samironbarai&theme=dark&show_icons=true" alt="shwetangStats" />  
-    <br />
-    <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samironbarai&layout=compact&theme=dark" alt="top-langs" />
 </p>
+
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=samironbarai&hide=contribs&count_private=true&theme=dracula&show_icons=true" alt="Samiron Barai's GitHub Stats" />
 
 <br />
 
