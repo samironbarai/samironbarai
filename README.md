@@ -10,6 +10,8 @@ You can find me on:
 - **[YouTube](https://youtube.com/codeforyou)** Producing video tutorials for both beginner and experienced developers.
 - **[samironbarai.com](https://samironbarai.com/)** Tring to create written tutorials about specific problems or the issues I am facing on my projects.
 
+<br>
+
 **Languages and Tools**
 
 <code><img height="35rem" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png"/></code>
@@ -19,7 +21,8 @@ You can find me on:
 <code><img height="35rem" src="https://vuejs.org/images/logo.svg"/></code>
 <code><img height="35rem" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-256.png"/></code>
 <code><img height="35rem" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/github-256.png"/></code>
-***
+
+<br>
 
 📈 My Github stats
 
