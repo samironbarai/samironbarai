@@ -1,7 +1,9 @@
 # Hello, folks! 
-[![Laravel 7 Blog CMS](samiron-barai.gif)](https://samironbarai.com/)
+[![Samiorn Barai](samiron-barai.gif)](https://samironbarai.com/)
 
-Solving problem is my game. I have developed lots of web and mobile application for my clients. 
-Developing open source code for others is very interesting fact to me. Please check my public repository and if you like, star that repo :)
+Have been working as a software engineer. My main responsibilty is to develop backend and frontend.
+Beside backend and frontend I have been developing mobile application using react native.
+
 
 Thanks
+[Samiron Barai](https://samironbarai.com/)
