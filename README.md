@@ -6,6 +6,13 @@ Beside backend and frontend I have been developing mobile application using reac
 
 <br>
 
+**Languages and Tools**
+
+<code><img height="35rem" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png"/></code>
+***
+
+<br>
+
 📈 My Github stats <br />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samironbarai&theme=dark&show_icons=true" alt="shwetangStats" />  
