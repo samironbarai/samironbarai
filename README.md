@@ -1,4 +1,4 @@
-# Hello, folks! 
+# Hello, folks! :wave:
 [![Samiorn Barai](samiron-barai.gif)](https://samironbarai.com/)
 
 Have been working as a software engineer. My main responsibilty is to develop backend and frontend.
