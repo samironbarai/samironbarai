@@ -36,4 +36,4 @@ You can find me on:
 
 **Total Visitors 👀**
 <br>
-![](https://komarev.com/ghpvc/?username=samironbaraicolor=blueviolet)
+![](https://komarev.com/ghpvc/?username=samironbarai&color=blueviolet)
