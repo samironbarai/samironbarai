@@ -35,4 +35,4 @@ You can find me on:
 </a>
 
 **Total Visitors 👀**
-https://camo.githubusercontent.com/435140dfdc4fde54817f1c340a4c535673e2bd22fd049f671680eaa89ca9bb1f/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f6465762d616275686173616e2f636f756e742e737667
+![](https://komarev.com/ghpvc/?username=samironbarai)
